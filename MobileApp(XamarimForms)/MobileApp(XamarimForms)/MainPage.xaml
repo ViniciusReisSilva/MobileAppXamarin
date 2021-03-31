@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApp_XamarimForms_.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#36F3" Padding="24" CornerRadius="0">
+            <Label Text="SEM DEUS NEM TENTE" HorizontalTextAlignment="Center" TextColor="#00F" FontSize="36"/>
+        </Frame>
+        <Label Text="TESTE ATIVIDADE LTP4" FontSize="22" TextColor="Chocolate" HorizontalTextAlignment="Center"></Label>
+        <Button Text="Menu"></Button>
+        <Button Text="Configuracoes"></Button>
+        <Button Text="Sair"></Button>
+    </StackLayout>
+
+</ContentPage>
